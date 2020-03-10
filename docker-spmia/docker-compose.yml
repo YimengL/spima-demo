@@ -1,0 +1,6 @@
+version: '2'
+services:
+  configserver:
+    image: rocklee1108/confsvr:chapter3
+    ports:
+      - "8888:8888"

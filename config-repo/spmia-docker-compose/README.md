@@ -1,0 +1,2 @@
+#### Notes:
+* I didn't add `ENCRYPT_KEY` as environment variable, since it would cause the `TextEncryptor` Excpetion. So this is the workaround, I'll add the security related info to AWS parameter store in the future.

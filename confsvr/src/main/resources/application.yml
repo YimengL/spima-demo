@@ -5,8 +5,8 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/YimengL/config-repo.git
-          search-paths: licensingservice
+          uri: https://github.com/YimengL/spima-demo.git
+          search-paths: config-repo/licensingservice
           username:
           password:
 
